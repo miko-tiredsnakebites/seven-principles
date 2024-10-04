@@ -1,0 +1,41 @@
+/* STYLES */
+
+body {
+background-color: antiquewhite;
+color: rgb(103, 62, 8);
+max-width: 680px;
+margin-left: auto;
+margin-right: auto;
+font-family: serif;
+}
+
+h1{
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: -2px;
+}
+h2{
+    text-transform: calc();
+    border-width: 5px;
+    border-style:groove;
+    border-color: rgb(199, 86, 11);
+    padding: 10px 15px;
+    margin: 5px 5px 5px 5px;
+}
+p {
+    font-size: 16px;
+    text-indent: 25px;
+    margin: 30px;
+    text-align: justify;
+    }
+
+a{
+    color: rgb(184, 134, 68);
+    text-decoration: none;
+    border: 1px solid rgb(184, 134, 68);
+    border-radius: 1px ;
+    border-style: solid;
+    border-top: 2px;
+    border-left: 1px;
+    border-right: 1px;
+}
